@@ -3,3 +3,5 @@ We have used
 - flask to create a api for our model
 - css and html to personalize the webpage
 - Docker container to give our application platform independence
+
+BLOG LINK- https://medium.com/@harasis123/deploying-a-diabetes-prediction-ml-model-using-flask-and-docker-4982d5e6ea74
